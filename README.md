@@ -42,7 +42,7 @@ Be A Man Challenge
 
 
 ```bash
-git clone https://github.com/Melanated-Cyber-Kings/Class7-Homework.git
+git clone https://github.com/Melanated-Cyber-Kings/Class7-Be-A-Man.git
 ```
 
 ```bash
@@ -50,47 +50,47 @@ git pull origin "name of your branch goes here"
 ```
 
 
-2. Navigate to the cloned repo location in your gitbash terminal and create folders Week 1, Week 2, and so on. These are the folders that will have your homework in
+2. Navigate to the cloned repo location in your gitbash terminal and create folders Week 1, Week 2, and so on. These are the folders that will have your Be A Man Challenges in
 
-3. Create your branches and swith into it immediately. (I have created the names as I want you to create your braanches)
+3. Create your branches and switch into it immediately. (I have created the names as I want you to create your braanches)
 
 ```bash
-git checkout -b Hakeem-Shaffi-Homework-Branch
+git checkout -b Hakeem-Shaffi-Be-A-Man-Branch
 ```
 ```bash
-git checkout -b Mahamed-Bashir-Homework-Branch
+git checkout -b Mahamed-Bashir-Be-A-Man-Branch
 ```
 ```bash
-git checkout -b Van-Ngila-Homework-Branch
+git checkout -b Van-Ngila-Be-A-Man-Branch
 ```
 ```bash
-git checkout -b Adedji-Adeyemi-Homework-Branch
+git checkout -b Adedji-Adeyemi-Be-A-Man-Branch
 ```
 ```bash
-git checkout -b Jay-Bailey-Homework-Branch
+git checkout -b Jay-Bailey-Be-A-Man-Branch
 ```
 ```bash
-git checkout -b Daniel-Bryce-Homework-Branch
+git checkout -b Daniel-Bryce-Be-A-Man-Branch
 ```
 ```bash
-git checkout -b ST-Tucker-Homework-Branch
+git checkout -b ST-Tucker-Be-A-Man-Branch
 ```
 ```bash
-git checkout -b Thomas-Bell-Homework-Branch
+git checkout -b Thomas-Bell-Be-A-Man-Branch
 ```
 ```bash
-git checkout -b Trevore-Jerome-Homework-Branch
+git checkout -b Trevore-Jerome-Be-A-Man-Branch
 ```
 ```bash
-git checkout -b Voloxar-Karsze-Homework-Branch
+git checkout -b Voloxar-Karsze-Be-A-Man-Branch
 ```
 ```bash
-git checkout -b Mark-Thornhill-Homework-Branch
+git checkout -b Mark-Thornhill-Be-A-Man-Branch
 ```
    
 5. Create Readme.md files in each folder you created above this will be the file that you will document your homework in and that will be presented to THEO, so make sure it's readable and that someone who wouldnt know how to do the homework/project can follow with little to no difficulty.
 
-6. Once you have done this any homework you have already done begin to tansfer it into these folders that you created above to your git on your local machine.
+6. Once you have done this any Be A Man challenges you have already done begin to tansfer it into these folders that you created above to your git on your local machine.
 
    
 
