@@ -1,7 +1,7 @@
 # Class7-Be-A-Man
 Be A Man Challenge
 
-<h1 align="center">AWS CLASS 7 BE A Man</h1>
+<h1 align="center">AWS CLASS 7 Be A Man</h1>
 
 
 **Group Leader:** 
