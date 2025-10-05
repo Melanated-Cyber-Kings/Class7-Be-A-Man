@@ -3,7 +3,7 @@
     In the EC2 console select the running EC2 instance named My-HTTP-Server.    
     - Select under Actions, Image and templates, Create template from instance.
    
-   ![template-menu](/Individual-Homework/03-week-03/graphics/aws-ec2-create-template-menu-screenshot.png)
+   ![template-menu](/Individual-Homework/01-week-01/graphics/aws-ec2-create-template-menu-screenshot.png)
 
 
 - Input a name for the template. In this example we will name the template HW01-BAMC-Template.  
@@ -14,7 +14,7 @@
 
         - Template Tags: Add creation date to help keep track of when the template was created.
     
-    ![AWS-EC2-Create-Launch-Template](/Individual-Homework/03-week-03/graphics/aws-ec2-create-launch-template.png)
+    ![AWS-EC2-Create-Launch-Template](/Individual-Homework/01-week-01/graphics/aws-ec2-create-launch-template.png)
 
 
 - In the Advanced section select user data perform the following steps:
@@ -43,7 +43,7 @@
 
     Verify changes to the web service running on the EC2 instance which has your modified index.html file.
 
-![BMC1.1](/Individual-Homework/03-week-03/graphics/aws-ec2-bmc-1.1.png)
+![BMC1.1](/Individual-Homework/01-week-01/graphics/aws-ec2-bmc-1.1.png)
  
  ## BAMC 1.2
     
@@ -63,6 +63,6 @@
 
     - Verify your modification by selecting the Public DNS record and opening the URL in a new browser tab or window.
 
-    ![BMC-1.2](/Individual-Homework/03-week-03/graphics/aws-ec2-bmc-1.2.png)
+    ![BMC-1.2](/Individual-Homework/01-week-01/graphics/aws-ec2-bmc-1.2.png)
 
     [NOTE] You can and *should* use your own pictures to customize your test web page!
