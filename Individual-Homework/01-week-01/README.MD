@@ -1,3 +1,7 @@
+# BAM Template deployment Instructions
+
+These are the instructions to create a template of a running EC2 instance, modify the templates user-data and deploy on AWS.
+
 ## BAMC 1.1
 
     In the EC2 console select the running EC2 instance named My-HTTP-Server.    
