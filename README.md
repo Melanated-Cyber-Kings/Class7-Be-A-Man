@@ -32,7 +32,7 @@ Be A Man Challenge
 
 **11:** <a href="https://github.com/theswordpt-git">Mark Thornhill</a> 
 
-**12:** <a href=" https://github.com/AnunnakiRa">Anunnaki MetuNetter AmenRa</a> 
+**12:** <a href="https://github.com/AnunnakiRa">Anunnaki MetuNetter AmenRa</a> 
 
 **13:** <a href="https://github.com/Lew228">Shawn Mosby</a> 
 
