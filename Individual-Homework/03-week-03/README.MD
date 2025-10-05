@@ -22,4 +22,4 @@ Killercoda Linux Fundamentals Screenshots
 ![Lesson 3](graphics/killakoda-hw03-lesson03.png) ![Lesson 4](graphics/killacoda-hw03-lesson04.png)
 ![Lesson 5](graphics/killakoda-hw03-lesson05.png) ![Lesson 6](graphics/killercoda-hw03-lesson06.png)
 ![Lesson 7](graphics/killaoda-hw03-lesson07.png) ![Lesson 8](graphics/killercoda-hw03-lesson08.png)
-![Lesson 9](graphics/killercoda-hw03-lesson09.png) ![Lesson 10](graphics/killercoda-hw03-lesson10.png)s
+![Lesson 9](graphics/killercoda-hw03-lesson09.png) ![Lesson 10](graphics/killercoda-hw03-lesson10.png)
