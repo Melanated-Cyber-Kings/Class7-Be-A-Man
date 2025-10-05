@@ -19,8 +19,8 @@
 
     In the Advanced section select user data perform the following steps:
     - Clear the current content in the user data field.
-    - Copy the content from the modified ec2script file in BAMC-1.1/ec2script-1.1.txt.
-    - Clear the User data section and input the content from the file BAMC-1.2/ec2script-1.2.txt.
+    - Copy the content from the modified ec2script file in ec2-scripts-textfiles/ec2script-1.1.txt.
+    - Clear the User data section and input the content from the file ec2-scripts-textfiles/ec2script-1.2.txt.
         - Open the file and select "Copy Raw File" using the GitHub interface.
     - Save template.
 
@@ -52,7 +52,7 @@
     - Select our existing Launch Template (e.g. HW01-BAMC-Template).
     - Select Actions, Launch Instance from template.
     - Open the Advanced details section at the bottom of the web page.
-    - Clear the User data section and input the content from the file BAMC-1.2/ec2script-1.2.txt.
+    - Clear the User data section and input the content from the file ec2-scripts-textfiles/ec2script-1.2.txt.
         - Open the file and select "Copy Raw File" using the GitHub interface.
 
         You should see your modified configuration for the index.html file.
