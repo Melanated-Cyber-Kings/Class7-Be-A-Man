@@ -5,30 +5,31 @@
    
    ![template-menu](/Individual-Homework/03-week-03/graphics/aws-ec2-create-template-menu-screenshot.png)
 
-    - Input a name for the template. In this example we will name the template HW01-BAMC-Template.
 
+- Input a name for the template. In this example we will name the template HW01-BAMC-Template.  
+    
     - Launch template name: HW01-BAMC-Template.
 
-    - Template version description: HW01-BAMC-Template.
+        - Template version description: HW01-BAMC-Template.
 
-    - Template Tags: Add creation date to help keep track of when the template was created.
-
-
+        - Template Tags: Add creation date to help keep track of when the template was created.
+    
     ![AWS-EC2-Create-Launch-Template](/Individual-Homework/03-week-03/graphics/aws-ec2-create-launch-template.png)
 
 
-    In the Advanced section select user data perform the following steps:
+- In the Advanced section select user data perform the following steps:
+
     - Clear the current content in the user data field.
     - Copy the content from the modified ec2script file in ec2-scripts-textfiles/ec2script-1.1.txt.
     - Clear the User data section and input the content from the file ec2-scripts-textfiles/ec2script-1.2.txt.
-        - Open the file and select "Copy Raw File" using the GitHub interface.
+    - Open the file and select "Copy Raw File" using the GitHub interface.
     - Save template.
 
     If everything worked then you should see a GREEN success message that you now have a template.
 
     
 
-    Review the created template.
+- Review the created template.
     - Select Launch templates from the left menu Instances > Launch Templates.       
     - You should see your newly created template.
     - Select the advanced tab and you should see your modified e2 script contents.
@@ -42,11 +43,11 @@
 
     Verify changes to the web service running on the EC2 instance which has your modified index.html file.
 
-    ![BMC1.1](/Individual-Homework/03-week-03/graphics/aws-ec2-bmc-1.1.png)
+![BMC1.1](/Individual-Homework/03-week-03/graphics/aws-ec2-bmc-1.1.png)
  
  ## BAMC 1.2
     
-    For this version we will use the same procedures as above except we will modify the template.
+- For this version we will use the same procedures as above except we will modify the template.
 
     - Select EC2 > Launch Templates.
     - Select our existing Launch Template (e.g. HW01-BAMC-Template).
