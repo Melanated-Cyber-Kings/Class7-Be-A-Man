@@ -32,6 +32,12 @@ Be A Man Challenge
 
 **11:** <a href="https://github.com/theswordpt-git">Mark Thornhill</a> 
 
+**12:** <a href=" https://github.com/AnunnakiRa">Anunnaki MetuNetter AmenRa</a> 
+
+**13:** <a href="https://github.com/Lew228">Shawn Mosby</a> 
+
+
+
 <br>
 
 <h2 align="center">📌 Instructions</h2>
@@ -87,6 +93,13 @@ git checkout -b Voloxar-Karsze-Be-A-Man-Branch
 ```bash
 git checkout -b Mark-Thornhill-Be-A-Man-Branch
 ```
+```bash
+git checkout -b Anunnaki-MetuNetter-AmenRa-Be-A-Man-Branch
+```
+```bash
+git checkout -b Shawn-Mosby-Be-A-Man-Branch
+```
+<br>
    
 5. Create Readme.md files in each folder you created above this will be the file that you will document your homework in and that will be presented to THEO, so make sure it's readable and that someone who wouldnt know how to do the homework/project can follow with little to no difficulty.
 
