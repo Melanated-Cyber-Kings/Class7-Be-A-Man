@@ -64,5 +64,3 @@
     - Verify your modification by selecting the Public DNS record and opening the URL in a new browser tab or window.
 
     ![BMC-1.2](/Individual-Homework/01-week-01/graphics/aws-ec2-bmc-1.2.png)
-
-    [NOTE] You can and *should* use your own pictures to customize your test web page!
