@@ -36,6 +36,9 @@ Be A Man Challenge
 
 **13:** <a href="https://github.com/Lew228">Shawn Mosby</a> 
 
+**14:** <a href="https://github.com/Cameron-Cleveland">Cameron Cleveland</a> 
+
+
 
 
 <br>
@@ -99,6 +102,12 @@ git checkout -b Anunnaki-MetuNetter-AmenRa-Be-A-Man-Branch
 ```bash
 git checkout -b Shawn-Mosby-Be-A-Man-Branch
 ```
+```bash
+git checkout -b Cameron-Cleveland-Be-A-Man-Branch
+```
+
+
+
 <br>
    
 5. Create Readme.md files in each folder you created above this will be the file that you will document your homework in and that will be presented to THEO, so make sure it's readable and that someone who wouldnt know how to do the homework/project can follow with little to no difficulty.
