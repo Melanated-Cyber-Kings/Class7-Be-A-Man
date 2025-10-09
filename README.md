@@ -38,6 +38,8 @@ Be A Man Challenge
 
 **14:** <a href="https://github.com/Cameron-Cleveland">Cameron Cleveland</a> 
 
+**15:** <a href="https://github.com/Cameron-Cleveland">Campanella Godfrey Jr</a>
+
 
 
 
@@ -105,8 +107,9 @@ git checkout -b Shawn-Mosby-Be-A-Man-Branch
 ```bash
 git checkout -b Cameron-Cleveland-Be-A-Man-Branch
 ```
-
-
+```bash
+git checkout -b Campanella-Godfrey-Jr-Be-A-Man-Branch
+```
 
 <br>
    
