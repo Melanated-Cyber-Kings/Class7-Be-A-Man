@@ -1,1 +1,0 @@
-Here are all of my Group Be A Man Submissions for Theo.
