@@ -1,2 +1,0 @@
-Individual Projects go here.
-
