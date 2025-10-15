@@ -13,6 +13,10 @@ Deployment was performed using Hashicorp Terraform.
 ***
 ## Network Architecture
 
+This provides a brief listing of the network architecture that was used to deploy this project.
+
+
+
 
 ***
 ## Screenshots
