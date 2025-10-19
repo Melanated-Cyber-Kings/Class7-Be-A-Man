@@ -31,21 +31,3 @@ resource "aws_instance" "bastion-evilbox" {
   }
 }
 
-output "bastion_ip" {
-  description = "Provide public IP address of bastion EC2 instance. "
-  value       = ["${aws_instance.bastion-evilbox.public_ip}"]
-}
-
-
-output "bastion_public_dns" {
-  value = aws_instance.bastion-evilbox.public_dns
-
-}
-
-output "bastion_instance_id" {
-  description = "Provide instance ID of bastion EC2 instance."
-  value = [
-    aws_instance.bastion-evilbox.id
-  ]
-
-}
