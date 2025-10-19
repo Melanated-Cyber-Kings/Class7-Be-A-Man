@@ -14,6 +14,10 @@ terraform {
       version = "~> 2.4"
     }
 
+    http = {
+      source  = "hashicorp/http"
+      version = "3.5.0"
+    }
   }
 
 }
@@ -23,4 +27,10 @@ provider "aws" {
   region  = var.region
   profile = "default"
 }
+
+# Get public IP address of client workstation via HTTP.
+
+
+
+
 
