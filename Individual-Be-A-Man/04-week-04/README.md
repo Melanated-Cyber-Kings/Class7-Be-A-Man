@@ -14,6 +14,11 @@ Deployment was performed using Hashicorp Terraform.
 ***
 ## Screenshots
 
+This screenshot shows list of running instances, availability zones, security groups, and platform details.
+
+[EC2 Instancs]](graphics/hw04-ec2-instances-with-zone-listing.png)
+
+***
 ### Linux Web Servers
 
 These screenshots show the Windows bastion host connecting to each Linux web server. Highlighted sections of the screenshots show the three different AZ's.
