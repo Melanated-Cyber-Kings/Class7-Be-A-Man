@@ -58,3 +58,12 @@ output "workstation-external-ip" {
   value       = local.workstation-external-cidr
 
 }
+
+# Output password for bastion host.
+# To view the password to the bastion host you will need to do the following:
+
+# 1. Uncomment this section. 
+# 2. Add the full path to the .pem file.
+# output "Administrator_password" {
+#   value = rsadecrypt(aws_instance.bastion-evilbox.password_data, file("/Path/to/where/you/have/the/example-keypair.pem"))
+# }
