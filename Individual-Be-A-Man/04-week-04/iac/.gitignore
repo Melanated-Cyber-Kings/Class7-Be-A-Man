@@ -103,3 +103,22 @@ terraform.rc
 terragrunt-debug.tfvars.json
 
 # End of https://www.toptal.com/developers/gitignore/api/git,ssh,terraform,dotfilessh,terragrunt,macos
+
+# Manually added files to ignore.
+
+# lock files
+*.terraform.lock.hcl.*
+.terraform.lock.hcl
+
+# Ignore keys
+*.json 
+!tests/event.json
+!tests/output.json
+*.pem
+
+#ignore packages
+*.rpm
+rpm_packages/
+*.zip
+
+venv/
