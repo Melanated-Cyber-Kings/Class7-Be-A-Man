@@ -23,11 +23,11 @@ This screenshot shows list of running instances, availability zones, security gr
 
 These screenshots show the Windows bastion host connecting to each Linux web server. Highlighted sections of the screenshots show the three different AZ's.
 
-![EU-Central-1A](graphics/hw04-bamc-linux-eu-central-1a.png)
+![EU-Central-1A](graphics/hw04-bamc-webserver01.png)
 
-![EU-Central-1B](graphics/hw04-bamc-linux-eu-central-1b.png)
+![EU-Central-1B](graphics/hw04-bamc-webserver02.png)
 
-![EU-Central-1C](graphics/hw04-bamc-linux-eu-central-1c.png)
+![EU-Central-1C](graphics/hw04-bamc-webserver03.png)
 
 ***
 ## Bastion Host SSH Console Access

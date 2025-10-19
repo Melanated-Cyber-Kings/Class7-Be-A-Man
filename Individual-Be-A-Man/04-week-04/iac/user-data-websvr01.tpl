@@ -24,7 +24,7 @@ echo "
 <!doctype html>
 <html lang=\"en\" class=\"h-100\">
 <head>
-<title>Details for EC2 instance</title>
+<title>Details for EC2 instance Web Server 01</title>
 </head>
 <body>
 <div>
@@ -32,7 +32,7 @@ echo "
 <h1>Samurai Katana</h1>
 
 <br>
-# insert an image or GIF
+
 <img src="https://raw.githubusercontent.com/statuc30721/c7-graphics/main/images/craiyon_111246_a_spaceship_leaving_the_galaxy.jpg">
 <br>
 
