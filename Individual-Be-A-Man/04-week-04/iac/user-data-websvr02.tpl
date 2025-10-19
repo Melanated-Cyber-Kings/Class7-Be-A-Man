@@ -9,6 +9,7 @@ systemctl enable httpd
 # Get the IMDSv2 token
 TOKEN=$(curl -X PUT "http://169.254.169.254/latest/api/token" -H "X-aws-ec2-metadata-token-ttl-seconds: 21600")
 
+
 # Background the curl requests
 curl -H "X-aws-ec2-metadata-token: $TOKEN" -s http://169.254.169.254/latest/meta-data/local-ipv4 &> /tmp/local_ipv4 &
 curl -H "X-aws-ec2-metadata-token: $TOKEN" -s http://169.254.169.254/latest/meta-data/placement/availability-zone &> /tmp/az &
@@ -24,19 +25,14 @@ echo "
 <!doctype html>
 <html lang=\"en\" class=\"h-100\">
 <head>
-<title>Details for EC2 instance</title>
+<title>Details for EC2 instance Webserver 02</title>
 </head>
 <body>
 <div>
 <h1>AWS Instance Details</h1>
-<h1>Samurai Katana</h1>
 
-<br>
-I, ST, THANK THEO AND Brahma, FOR TEACHING ME ABOUT EC2s IN AWS. <br>
-ONE STEP CLOSER TO ESCAPING KEISHA! <br>
-WITH THIS CLASS, I WILL NET  &#36 150,000 PER YEAR! <br>
 
-<img src="https://dmc.tatdataapi.io/assets/281895a5-0630-4308-8fa8-c203776a654e.jpeg" >
+<img src="https://raw.githubusercontent.com/statuc30721/c7-graphics/main/images/craiyon_111725_kungfu_martial_artist_fighting_goku.jpg" >
 <br>
 
 <p><b>Instance Name:</b> $(hostname -f) </p>

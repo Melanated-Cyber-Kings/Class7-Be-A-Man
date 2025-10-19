@@ -24,17 +24,14 @@ echo "
 <!doctype html>
 <html lang=\"en\" class=\"h-100\">
 <head>
-<title>Details for EC2 instance</title>
+<title>Details for EC2 instance Web Server 03</title>
 </head>
 <body>
 <div>
 <h1>AWS Instance Details</h1>
-<h1>Samurai Katana</h1>
 
-<br>
-<h1>I found my wife on a party yacht in Bangkok! Her name is Jasmine!</h1> <br>
 
-<img src="https://images.lifestyleasia.com/wp-content/uploads/sites/3/2023/04/12225638/thaistyle3.jpg">
+<img src="https://raw.githubusercontent.com/statuc30721/c7-graphics/main/images/craiyon_111452_a_humanoid__alien_eating_a_planet.jpg">
 <br>
 
 <p><b>Instance Name:</b> $(hostname -f) </p>

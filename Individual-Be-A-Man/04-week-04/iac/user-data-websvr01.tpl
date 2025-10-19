@@ -33,7 +33,7 @@ echo "
 
 <br>
 # insert an image or GIF
-<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+<img src="https://raw.githubusercontent.com/statuc30721/c7-graphics/main/images/craiyon_111246_a_spaceship_leaving_the_galaxy.jpg">
 <br>
 
 <p><b>Instance Name:</b> $(hostname -f) </p>
