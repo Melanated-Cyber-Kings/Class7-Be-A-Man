@@ -20,7 +20,7 @@ resource "aws_instance" "bastion-evilbox" {
 
   # Insert the name of your own keys that you have uploaded to AWS in the region where the 
   # VPC is located.
-  key_name          = "bastionkeys"
+  key_name = "bastionkeys"
   # get_password_data = true # By default this value is false. Change to true if you want to output the password.
 
   lifecycle {
