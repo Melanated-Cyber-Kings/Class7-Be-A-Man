@@ -48,8 +48,11 @@ variable "vpc_name" {
 
 # Set remote client IP address for security group rules.
 
+# Get public IP address of client system.
 variable "client_ip" {
   type    = string
   default = "0.0.0.0/0"
+
   # client_ip_addr =  # insert IP address and CIDR in this field.
+
 }
