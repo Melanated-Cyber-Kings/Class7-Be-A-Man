@@ -62,19 +62,3 @@ resource "aws_instance" "web-svr-03" {
 }
 
 
-# Provide outputs to terminal of 
-output "private_dns_web-svr-01" {
-  value = aws_instance.web-svr-01.private_dns
-
-}
-
-
-output "private_dns_web-svr-02" {
-  value = aws_instance.web-svr-02.private_dns
-
-}
-
-output "private_dns_web-svr-03" {
-  value = aws_instance.web-svr-03.private_dns
-
-}
