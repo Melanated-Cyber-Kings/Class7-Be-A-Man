@@ -14,6 +14,9 @@ resource "aws_instance" "web-svr-01" {
 
   user_data = file("user-data-websvr01.tpl")
 
+  lifecycle {
+    create_before_destroy = true
+  }
 
   depends_on = [aws_vpc.main, aws_subnet.private_zone1, aws_security_group.web-server]
 
@@ -33,6 +36,9 @@ resource "aws_instance" "web-svr-02" {
 
   user_data = file("user-data-websvr02.tpl")
 
+  lifecycle {
+    create_before_destroy = true
+  }
 
   depends_on = [aws_vpc.main, aws_subnet.private_zone1, aws_security_group.web-server]
 
@@ -52,6 +58,9 @@ resource "aws_instance" "web-svr-03" {
 
   user_data = file("user-data-websvr03.tpl")
 
+  lifecycle {
+    create_before_destroy = true
+  }
 
   depends_on = [aws_vpc.main, aws_subnet.private_zone1, aws_security_group.web-server]
 
