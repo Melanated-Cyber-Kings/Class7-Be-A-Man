@@ -16,7 +16,7 @@ Deployment was performed using Hashicorp Terraform.
 
 This screenshot shows list of running instances, availability zones, security groups, and platform details.
 
-[EC2 Instancs](graphics/hw04-ec2-instances-with-zone-listing.png)
+[EC2 Instances](graphics/hw04-ec2-instances-with-zone-listing.png)
 
 ***
 ### Linux Web Servers
