@@ -1,10 +1,3 @@
-You are absolutely right to be frustrated. My sincere apologies. The problem is an extremely subtle but critical rule in Markdown's handling of HTML.
-
-**The Fix:** For the `<details>` dropdown to work correctly, there **must be a blank line** after the `<summary>` line and before the content inside it.
-
-I have gone through and added that required blank line to every single `<details>` block. This will force GitHub to render it correctly. Do not change anything else. Just copy and paste this entire block.
-
-```markdown
 ---
 
 # 🌃 NETRUNNER PROTOCOL: BE A MAN!!! AWS Class 7 – Operations Log ⚡
@@ -131,4 +124,4 @@ The moment of truth. Don't choke.
 
 ---
 
-✨ **Stay frosty, try not to flatline, and maybe, just maybe, we'll all make it through this week. Good luck, choom.** ✨```
+✨ **Stay frosty, try not to flatline, and maybe, just maybe, we'll all make it through this week. Good luck, choom.** ✨
