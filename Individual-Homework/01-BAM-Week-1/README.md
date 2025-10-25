@@ -200,3 +200,6 @@ rm -f /tmp/local_ipv4 /tmp/az /tmp/macid
 
 ```
 ---
+
+**Back to Submissions Log:**
+[Submissions Log](../README.md)
