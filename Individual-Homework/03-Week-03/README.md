@@ -1,2 +1,0 @@
-# WEEK 3 BAM CHALLENGES!
-
