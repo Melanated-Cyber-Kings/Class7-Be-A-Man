@@ -4,7 +4,7 @@
 
 <!-- Badges as mission parameters - sleek and integrated -->
 <p align="center">
-  <img src="https://img.shields.io/badge/OPS_STATUS-ONLINE_ish-brightgreen?style=for-the-badge&logo=firebase&logoColor=white" alt="Operations Status Online-ish">
+  <img src="https://img.shields.io/badge/OPS_STATUS-ONLINE-brightgreen?style=for-the-badge&logo=firebase&logoColor=white" alt="Operations Status Online">
   <img src="https://img.shields.io/badge/OPERATIVES-11_CYBER_KINGS-FF00FF?style=for-the-badge&logo=github&logoColor=white" alt="Operatives 11 Cyber Kings">
   <img src="https://img.shields.io/badge/DATA_DROPS-WEEKLY_GRIND-00FFFF?style=for-the-badge&logo=circleci&logoColor=white" alt="Data Drops Weekly Grind">
   <img src="https://img.shields.io/badge/PRIMARY_FOCUS-AWS_SECURITY-FFFF00?style=for-the-badge&logo=aws&logoColor=black" alt="Primary Focus AWS Security">
@@ -67,7 +67,7 @@ Think of these as the unwritten rules of the street. Follow them, or end up flat
 
 First rule of Night City: know your turf. Get the main grid to your local rig.
 ```bash
-git clone https://github.com/Melanated-Cyber-Kings/Class7-Homework.git
+git clone https://github.com/Melanated-Cyber-Kings/Class7-Be-A-Man.git
 ```
 </details>
 
