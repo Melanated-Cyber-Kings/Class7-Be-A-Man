@@ -202,4 +202,8 @@ rm -f /tmp/local_ipv4 /tmp/az /tmp/macid
 ---
 
 **Back to Submissions Log:**
+<<<<<<< HEAD
 [Submissions Log](../README.md)
+=======
+[Submissions Log](../README.md)
+>>>>>>> 4ecd465 (Updated file path in a View Deliverable link in Submission Log)
