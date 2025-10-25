@@ -1,13 +1,13 @@
 ---
 
-# 🌃 NETRUNNER PROTOCOL: BE A MAN AWS Class 7 – Operations Log ⚡
+# 🌃 NETRUNNER PROTOCOL: BE A MAN!!! AWS Class 7 – Operations Log ⚡
 
 <!-- Badges as mission parameters - sleek and integrated -->
 <p align="center">
-  <img src="https://img.shields.io/badge/OPS_STATUS-ONLINE-00FF00?style=for-the-badge&logo=firebase&logoColor=white" alt="Operations Status Online-ish">
+  <img src="https://img.shields.io/badge/OPS_STATUS-ONLINE_ish-brightgreen?style=for-the-badge&logo=firebase&logoColor=white" alt="Operations Status Online-ish">
   <img src="https://img.shields.io/badge/OPERATIVES-11_CYBER_KINGS-FF00FF?style=for-the-badge&logo=github&logoColor=white" alt="Operatives 11 Cyber Kings">
   <img src="https://img.shields.io/badge/DATA_DROPS-WEEKLY_GRIND-00FFFF?style=for-the-badge&logo=circleci&logoColor=white" alt="Data Drops Weekly Grind">
-  <img src="https://img.shields.io/badge/PRIMARY_FOCUS-AWS-FFFF00?style=for-the-badge&logo=aws&logoColor=black" alt="Primary Focus AWS">
+  <img src="https://img.shields.io/badge/PRIMARY_FOCUS-AWS_SECURITY-FFFF00?style=for-the-badge&logo=aws&logoColor=black" alt="Primary Focus AWS Security">
 </p>
 
 ---
@@ -20,8 +20,8 @@ Listen up, choombas. This is the **AWS Class 7 BE A MAN Operations Log** for **T
 
 You want the goods? Here's the map. Don't get lost, the street's unforgiving.
 
--   [👥 The Collective: Our Network (God Help Us)](#-the-collective-our-network-god-help-us)
--   [📖 Operation Directives: The Workflow (Don't Deviate)](#-operation-directives-the-workflow-dont-deviate)
+-   [👥 The Collective: Our Network](#-the-collective-our-network)
+-   [📖 Operation Directives: The Workflow](#-operation-directives-the-workflow)
     -   [🟢 Directive 01: Initializing Local Port (The Basics)](#-directive-01-initializing-local-port-the-basics)
     -   [🔵 Directive 02: Syncing Remote Data-Stream (Avoid Headaches)](#-directive-02-syncing-remote-data-stream-avoid-headaches)
     -   [🟡 Directive 03: Data-Vault Structuring (Pretend You're Organized)](#-directive-03-data-vault-structuring-pretend-youre-organized)
@@ -31,7 +31,7 @@ You want the goods? Here's the map. Don't get lost, the street's unforgiving.
 
 ---
 
-## 👥 The MEN: Our Network 
+## 👥 The MEN: Our Network
 
 Under the watchful eye of our esteemed Lead Netrunner, Brimah Khalil Kamara, this mess somehow stays functional. Don't disappoint him.
 
@@ -95,7 +95,7 @@ Keep your mess contained. Your own private little digital sandbox.
 ```bash
 git checkout -b Your-Name-Be-A-Man-Branch
 ```
-✅ **Critical Protocol:** Double-check you're in your own branch. We don't need your errors infecting the main.
+✅ **Critical Protocol:** Double-check you're in your own damn branch. We don't need your errors infecting the main.
 </details>
 
 <details>
