@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # Week 1 BAM CHALLENGES!
 
 EC2 Basics
@@ -202,8 +204,7 @@ rm -f /tmp/local_ipv4 /tmp/az /tmp/macid
 ---
 
 **Back to Submissions Log:**
-<<<<<<< HEAD
 [Submissions Log](../README.md)
-=======
-[Submissions Log](../README.md)
->>>>>>> 4ecd465 (Updated file path in a View Deliverable link in Submission Log)
+
+<p align="right"><a href="#top">[▲ Back to Top]</a></p>
+
