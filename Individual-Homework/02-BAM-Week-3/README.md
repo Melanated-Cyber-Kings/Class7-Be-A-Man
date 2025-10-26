@@ -1,6 +1,6 @@
 # WEEK 3 BAM CHALLENGES!
 
-#BAM 3.1
+# BAM 3.1
 
 List of folders and subfolders in /sbin on my Linux machine:
 
