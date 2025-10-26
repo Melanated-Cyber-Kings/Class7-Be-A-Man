@@ -1,6 +1,6 @@
 ---
 
-# 📚 Individual Homework: BE A MAN CHALLENGES!!
+# 📚 Individual Homework: BE A MAN CHALLENGES!
 
 
 
