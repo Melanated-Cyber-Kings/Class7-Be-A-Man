@@ -128,6 +128,6 @@ Time to deliver. Don't choke.
 ✨ **Stay frosty, try not to flatline, and maybe we'll all make it through this week. Good luck, choom.** ✨
 
 **Go to Submissions Log:**
-[Submissions Log](../README.md)
+[Submissions Log](./Individual-Homework/)
 
 <p align="right"><a href="#top">[▲ Back to Top]</a></p>
