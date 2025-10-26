@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/OPS_STATUS-ONLINE-brightgreen?style=for-the-badge&logo=firebase&logoColor=white" alt="Operations Status Online">
   <img src="https://img.shields.io/badge/OPERATIVES-11_CYBER_KINGS-FF00FF?style=for-the-badge&logo=github&logoColor=white" alt="Operatives 11 Cyber Kings">
   <img src="https://img.shields.io/badge/DATA_DROPS-WEEKLY_GRIND-00FFFF?style=for-the-badge&logo=circleci&logoColor=white" alt="Data Drops Weekly Grind">
-  <img src="https://img.shields.io/badge/PRIMARY_FOCUS-AWS_SECURITY-FFFF00?style=for-the-badge&logo=aws&logoColor=black" alt="Primary Focus AWS Security">
+  <img src="https://img.shields.io/badge/PRIMARY_FOCUS-AWS-FFFF00?style=for-the-badge&logo=aws&logoColor=black" alt="Primary Focus AWS">
 </p>
 
 ---
