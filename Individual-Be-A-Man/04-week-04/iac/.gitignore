@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/git,ssh,terraform,dotfilessh,terragrunt,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=git,ssh,terraform,dotfilessh,terragrunt,macos
+# Created by https://www.toptal.com/developers/gitignore/api/git,ssh,terraform,dotfilessh,powershell,terragrunt,visualstudiocode,macos
+# Edit at https://www.toptal.com/developers/gitignore?templates=git,ssh,terraform,dotfilessh,powershell,terragrunt,visualstudiocode,macos
 
 ### DotfilesSh ###
 local-patch
@@ -53,6 +53,13 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+### PowerShell ###
+# Exclude packaged modules
+*.zip
+
+# Exclude .NET assemblies from source
+*.dll
+
 ### SSH ###
 **/.ssh/id_*
 **/.ssh/*_id_*
@@ -102,8 +109,26 @@ terraform.rc
 # See: https://terragrunt.gruntwork.io/docs/reference/cli-options/#terragrunt-debug
 terragrunt-debug.tfvars.json
 
-# End of https://www.toptal.com/developers/gitignore/api/git,ssh,terraform,dotfilessh,terragrunt,macos
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
 
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# End of https://www.toptal.com/developers/gitignore/api/git,ssh,terraform,dotfilessh,powershell,terragrunt,visualstudiocode,macos
 # Manually added files to ignore.
 
 # lock files
