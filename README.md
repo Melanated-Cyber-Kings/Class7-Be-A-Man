@@ -55,6 +55,24 @@ This repository is where we collaborate, submit, and organize weekly assignments
 <details open>
 <summary>🟢 Step 1: Clone the Repo</summary>
 
+**11:** <a href="https://github.com/theswordpt-git">Mark Thornhill</a> 
+
+**12:** <a href="https://github.com/AnunnakiRa">Anunnaki MetuNetter AmenRa</a> 
+
+**13:** <a href="https://github.com/Lew228">Shawn Mosby</a> 
+
+**14:** <a href="https://github.com/Cameron-Cleveland">Cameron Cleveland</a> 
+
+**15:** <a href="https://github.com/Cameron-Cleveland">Campanella Godfrey Jr</a>
+
+**16:** <a href="https://github.com/keylewisleo">Key Lewis</a>
+
+
+
+
+<br>
+
+<h2 align="center">📌 Instructions</h2>
 ```bash
   git clone https://github.com/Melanated-Cyber-Kings/Class7-Be-A-Man.git
 
@@ -88,6 +106,10 @@ Week1, Week2, Week3, ...
 ```bash
 git checkout -b Your-Name-Be-A-Man-Branch
 ```
+```bash
+git checkout -b Key-Lewis-Be-A-Man-Branch
+```
+
 
 ✅ Always switch into your branch immediately after creating it.
 </details>
