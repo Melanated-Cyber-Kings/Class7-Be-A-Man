@@ -1,0 +1,15 @@
+HW - BE A MAN CHALLENGE 3.2 (10 pts)
+Must be in github repo link
+Create a walkthrough of how to complete a git merge request, complete with screenshots of the successful merge request and the updated content
+
+
+Pull Request (PR): A request to merge a set of changes from one branch to another branch.  
+
+1. Run git-init to initialize a new project in your project folder
+2. Use git-add to add files to staging area
+3. Use git-run to commit new changes to the local repo. Also add a comment explaining the change.
+4. Use the git-push command to send changes to the remote repo.
+5. git commit -m 'Initial commit'
+Use the git-pull command to pull changes from the remote repo to your local machine.
+Use the git-clone command to pull the entire remote repo onto your local machine.
+Branching & Merging allows individuals to work on projects without affecting the main code. You can merge the new changes to the repo when ready.
