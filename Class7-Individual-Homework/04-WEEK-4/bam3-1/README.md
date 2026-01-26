@@ -1,0 +1,1 @@
+Using Git Bash (Windows) or Terminal (Mac/Linux), point the command line to “see” only your desktop.
